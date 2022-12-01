@@ -1,1 +1,1 @@
-Animals found in the zoo: tiger, Panda, Coala.
+Animals found in the zoo: tiger, Panda, Coala, Giraff, Lion.
